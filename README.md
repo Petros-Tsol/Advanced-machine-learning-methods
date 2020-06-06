@@ -13,3 +13,7 @@ The dataset contains samples divided in two classes, either someone has not a he
 | class 2 | 5 | 0 |
 
 We implemented the oversampling, undersampling and CSRoulette method and we used the class weight method from scikit-learn. The methods were tested using 10-fold cross validation using SVM or Random Forest or Linear Regression as classifier.
+
+## Multi-instance learning
+
+## Multi-label learning
